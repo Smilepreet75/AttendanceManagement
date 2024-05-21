@@ -1,4 +1,6 @@
 Attendance Management System
+
+
 An attendance management system implemented in C# and SQL Server database. This project allows users to manage attendance records for students in a school or university.
 
 Introduction
